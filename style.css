@@ -1,0 +1,21 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#p1{
+    font-size: 30px;
+    text-align: center;
+}
+#p2{
+    font-size: 15px;
+    text-align: center;
+}
+.tables{
+    margin-left: 215px;
+}
+.table1{
+    border-spacing: 40px;
+    
+}
+.td{
+    text-align: center;
+}
